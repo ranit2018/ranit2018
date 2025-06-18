@@ -9,8 +9,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/ranit-majumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranit-majumder" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ranit.majumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranit.majumder" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/ranit" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGWQYZ4W0cjzrBXm9YYRftRjselRRLWJ2d7Q&s" alt="Upwork" height="30" width="40" /></a>
-<a href="https://www.freelancer.com/u/majumderranit81" target="blank"><img align="center" src="https://c0.klipartz.com/pngpicture/328/113/gratis-png-lancer-lance-marketplace-logo-trabajo-disenador-grafico-diseno.png" alt="Freelancer" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/ranit" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGWQYZ4W0cjzrBXm9YYRftRjselRRLWJ2d7Q&s" alt="Upwork" width="40" /></a>
+<a href="https://www.freelancer.com/u/majumderranit81" target="blank"><img align="center" src="https://c0.klipartz.com/pngpicture/328/113/gratis-png-lancer-lance-marketplace-logo-trabajo-disenador-grafico-diseno.png" alt="Freelancer" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
