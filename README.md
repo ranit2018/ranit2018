@@ -1,7 +1,3 @@
-<style>
-.red {color: red}
-.ff{ display: flex; flex-wrap: wrap; gap: 22px; }
-</style>
 <h1 align="center">Hi 👋, I'm Ranit Majumder</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
